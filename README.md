@@ -1,4 +1,7 @@
-# General
+# Pollenizer's top pick media for 60 Day Startup
+## [www.60daystartup.com](http://www.60daystartup.com)
+
+## General
 
 - [Startup Tools](http://stfi.re/rnebyn)
 - [Startup Science](https://app.startupscience.com/signup?lab=60daystartup)
@@ -23,7 +26,7 @@
 - [How things get done by Sam Altman](http://stfi.re/xrlavw)
 - [So You Want to Compete Against Amazon?](http://stfi.re/rnezab)
 
-# Ideas
+## Ideas
 
 - [Marc Andreessen on Big Breakthrough Ideas and Courageous Entrepreneurs](http://stfi.re/pjlzjv)
 - [The idea maze](http://stfi.re/ebdzlp)
@@ -36,7 +39,7 @@
 - [Competition: How do you assess the value of a new product or service vs an incumbent's?](http://stfi.re/wyljko)
 - [Activate Tech and Media Outlook 2016](http://stfi.re/kjkeov)
 
-# MVP Design & Validation
+## MVP Design & Validation
 
 - [The Manual-First Startup](http://stfi.re/rnezvb)
 - [Hustling for Traction and Doing Things That Don't Scale](http://stfi.re/gdxzxa)
@@ -59,7 +62,7 @@
 - [Keynotopia (tool)](http://stfi.re/rnezrg)
 - [How to Validate Demand with Prototypes](http://stfi.re/yrzpnz)
 
-# Customer Development and Interviews
+## Customer Development and Interviews
 
 - [Focus groups are worthless](http://stfi.re/eyjdnl)
 - [When You’re Innovating, Resist Looking for Solutions](http://stfi.re/kjkleo)
@@ -82,7 +85,7 @@
 - [Why Asking for Stories Beats Asking Questions](http://stfi.re/wynwkd)
 - [Customers Need to Fire Something Before They Can Hire Your Product](http://stfi.re/layxgz)
 
-# Pitching
+## Pitching
 
 - [Lessons From A Study of Perfect Pitch Decks: VCs Spend An Average of 3 Minutes, 44 Seconds On Them](http://stfi.re/dkgwxj)
 - [Universal Startup Pitch Deck](http://stfi.re/dkgajr)
@@ -92,7 +95,7 @@
 - [How To Create An Early-Stage Pitch Deck For Investors](http://stfi.re/layoey)
 - [LinkedIN Series B Pitch to Greylock](http://stfi.re/kjkpgj)
 
-# Capital Raising & Accelerator application
+## Capital Raising & Accelerator application
 
 - [Who Y Combinator Companies Want](http://stfi.re/axkgop)
 - [How to pick a co-founder](http://stfi.re/jvwxnw)
@@ -108,7 +111,7 @@
 - [Securing A Huge Growth Round](http://stfi.re/gdxkbj)
 - [Funding options available for startups in Australia](http://stfi.re/wynjxa)
 
-# Growth Hacking
+## Growth Hacking
 
 - [The Never Ending Road To Product Market Fit](http://stfi.re/eypkoj)
 - [The Startup Pyramid by Sean Ellis](http://stfi.re/nrnvjr)
@@ -129,7 +132,7 @@
 - [Growth Hacking Tactics That Every Startup Needs To Know](http://stfi.re/yogpzd)
 - [The Ultimate Growth Hacking Sourcebook](http://stfi.re/jvxbkz)
 
-# Customer Acquisition & Conversion
+## Customer Acquisition & Conversion
 
 - [Why Most Startups Fail at Acquiring New Customers](http://stfi.re/jlaogk)
 - [Traction Stack](http://stfi.re/pjozkg)
@@ -144,7 +147,7 @@
 - [51 Ways to Acquire Your First 100,000 Customers Without Any Marketing Budget](http://stfi.re/oowgor)
 - [Rand Fishkin - Helping Customers Find You Online. The Everchanging World of Online Marketing](http://stfi.re/eyrked)
 
-# Lean Startup & Disruption
+## Lean Startup & Disruption
 
 - [Tool: A Quick Walkthrough Lean Dashboard](http://stfi.re/gdxwgx)
 - [Don't launch](http://stfi.re/kjxlrw)
@@ -161,7 +164,7 @@
 - [The Lean Startup(book)](http://stfi.re/yrlalw)
 - [Running Lean (book)](http://stfi.re/rnlble)
 
-# Metrics
+## Metrics
 
 - [How Marketing Funnels Work](http://stfi.re/ojrnrg)
 - [Dave McClure - Startup Metrics For Pirates](http://stfi.re/axkgjo)
@@ -179,7 +182,7 @@
 - [Facebook's Aha Moment Is Simpler Than You Think](http://stfi.re/voypwl)
 
 
-# Product Management
+## Product Management
 
 - [Inside Intercom (blog)](http://stfi.re/yrkaag)
 - [How to Implement Hypothesis-Driven Development](http://stfi.re/jlaoeo)
@@ -200,7 +203,7 @@
 - [Conversion is Product Management](http://stfi.re/dkgwgj)
 - [Acquire New Users with Better Activation](http://stfi.re/xzdpnk)
 
-# Revenue models
+## Revenue models
 
 - [I analyzed 250 SaaS pricing pages — here’s what I found](http://stfi.re/pvnkdb)
 - [13 Ways To Get To $10 Million In Revenues](http://stfi.re/ebdznp)
